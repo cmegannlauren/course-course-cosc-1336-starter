@@ -1,2 +1,2 @@
-# cosc-1336-starter
+# cmegannlauren
 Python beginner code with unittest framework tests.
